@@ -24,10 +24,10 @@ A web-based **Student Management System** built with **Laravel** framework, desi
    git clone https://github.com/Cynthia211588/laravel-student-management-system.git
 
 ## ways to run
-1. Open a new terminal, run the command
+1. Open a new terminal, run the command<br>
 php artisan serve
 
-2. Open another new terminal, run the command
+2. Open another new terminal, run the command<br>
 npm run dev
 
 3. Open below website link to see the whole project
